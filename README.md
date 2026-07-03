@@ -16,6 +16,4 @@ Key Features:
 
 * User-centered and responsive design
 
-Short Version (2–3 lines for resume/portfolio):
-
 Designed a mobile app signup flow UI/UX with a modern, minimal, and user-friendly interface. Created onboarding, registration, verification, and success screens to improve user experience and simplify the account creation process.
